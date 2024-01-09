@@ -475,3 +475,33 @@ color: #FFF;
     font-size: 20px;
     font-weight: 500;
 }
+
+.c-up {
+    display: flex;
+    position: relative;
+
+}
+
+.girl {
+    width: 429px;
+    border-radius: 16px 16px 0px 0px;
+    background: url(<path-to-image>), lightgray -59.98px 0px / 151.553% 100% no-repeat;
+}
+
+.amount {
+    width: 206.841px;
+    height: 206.841px;
+    position: absolute;
+    top: 86.17px;
+    right: 285.9px;
+    /* bottom: 59.48px; */
+    left: 746.79px;
+}
+.container2{
+    position: relative;
+}
+.box{
+    /* position: absolute;
+    top: 249px;
+    left: 126px; */
+}
